@@ -1,1 +1,10 @@
-theme: jekyll-theme-tactile
+# basic options
+title: First Blog
+author: Sukhvir Kaur
+email: mahilsukh11@gmail.com
+description: My personal Blog
+github_username:  smahil
+
+# Build settings
+markdown: kramdown
+theme: minima
