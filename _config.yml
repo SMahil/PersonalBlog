@@ -7,4 +7,4 @@ github_username:  smahil
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-tactile
